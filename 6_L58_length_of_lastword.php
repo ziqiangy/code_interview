@@ -1,5 +1,5 @@
 <?php
-//6_L55_length_of_lastword
+//6_L58_length_of_lastword
 
 
 $s = "   fly me   to   the moon  ";
