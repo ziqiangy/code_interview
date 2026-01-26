@@ -22,3 +22,22 @@ print_r($arr_1_same);
 print_r($arr_1_diff);
 
 
+
+// $array= array(1,3,5,7,8);
+// $missing = array();
+// for($num = 1; $num<=10; $num++){
+//     for($i=0;$i<count($array);$i++){
+//         if($num == $array[$i]){
+//             //match no need to do anything
+//             break;
+//         }else{
+//             if($i==count($array)-1){
+//                 array_push($missing,$num);
+//             }
+//         }
+//     }
+// }
+// print_r($missing);
+
+
+
